@@ -3,7 +3,7 @@
 ## 📄 Project Overview
 This project aims to predict earthquake magnitudes using a linear regression model. The dataset includes records of recent earthquakes with features like magnitude, location, depth, and timestamp. By analyzing these factors, we assess how well magnitudes can be predicted based on other attributes.
 
----
+
 
 ## 📊 Dataset
 - **Name:** Recent Earthquakes Dataset  
@@ -15,12 +15,12 @@ This project aims to predict earthquake magnitudes using a linear regression mod
   - 🌡 **Magnitude:** Richter scale value.  
   - 🗺 **Location:** General description (e.g., nearby cities).  
 
----
+
 
 ## 🎯 Objective
 Develop a **linear regression model** to predict earthquake magnitudes based on other dataset features.
 
----
+
 
 ## 🛠 Workflow
 
@@ -47,7 +47,7 @@ Develop a **linear regression model** to predict earthquake magnitudes based on 
   - 📊 **R² Score:** 0.742  
     - Explains ~74.2% of the variance in earthquake magnitudes.
 
----
+
 
 ## 🔍 Results and Insights
 - Magnitude predictions are reasonably accurate, with potential for improvement by adding features like geological activity indicators.  
@@ -55,20 +55,20 @@ Develop a **linear regression model** to predict earthquake magnitudes based on 
   - Most earthquakes are shallow, with depths between **0–10 km**.  
   - Magnitude values range from **3.5–5.25**.
 
----
+
 
 ## 📂 Files Included
 - 📘 **EarthquakePrediction.ipynb:** Jupyter notebook for data preprocessing, modeling, and evaluation.  
 - 📊 **Presentation:** Summarizes the project workflow and findings.
 
----
+
 
 ## 🚀 Future Work
 - Include geological and environmental factors for better predictions.  
 - Explore advanced models like non-linear regression or neural networks.  
 - Incorporate real-time data updates for live earthquake monitoring.
 
----
+
 
 ## ✨ Author
 **Hritik Singh**  
