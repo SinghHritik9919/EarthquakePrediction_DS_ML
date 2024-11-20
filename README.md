@@ -59,7 +59,7 @@ Develop a **linear regression model** to predict earthquake magnitudes based on 
 
 ## 📂 Files Included
 - 📘 **EarthquakePrediction.ipynb:** Jupyter notebook for data preprocessing, modeling, and evaluation.  
-- 📊 **Presentation:** Summarizes the project workflow and findings.
+- 📊 **Report:** Summarizes the project workflow and findings.
 
 
 
